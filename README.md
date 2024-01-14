@@ -12,7 +12,17 @@ and why not to make it a game to put it in the games store so that all people ca
      git clone https://github.com/Saadben30/Ping-Pong-game.git
  
      python ping-pong.py
+ # playing 
+ 
+  .Blue player using W to up and S to down 
+  
+  .Red Player using Up ↑ to up and using Down ↓ to down
+ 
  # Thanks for your time and I hope you like the game
+ 
+ 
  # enjoy
+
+ 
 
         
